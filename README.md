@@ -5,7 +5,21 @@ This patch adds hi-dpi scaled resolutions for LG34BK95U Monitor.
 
 Usage:
 
+Enter Recovery mode and disable csrutil:
+
 ```
-sudo cp ~/Downloads/DisplayProductID-7720 /System/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-1e6d/DisplayProductID-7720
+csrutil disable
+```
+
+Make system directory writeable:
+
+```
+sudo mount -uw /
+```
+
+Then:
+
+```
+sudo cp ~/Downloads/DisplayProductID-7721 /System/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-1e6d/DisplayProductID-7721
 
 ```
