@@ -1,4 +1,4 @@
-# LG-34BK95U Monitor Fix
+# LG-34BK95U Monitor Fix for MacOS
 LG 34BK95U
 
 This patch adds hi-dpi scaled resolutions for LG34BK95U Monitor. 
