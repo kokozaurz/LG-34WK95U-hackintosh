@@ -3,7 +3,7 @@ LG 34BK95U
 
 This patch adds hi-dpi scaled resolutions for LG34BK95U Monitor. 
 
-**Usage Catalina & Lower:**
+**Usage <= Catalina:**
 
 Enter Recovery mode and disable csrutil:
 
