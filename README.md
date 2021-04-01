@@ -36,6 +36,6 @@ Then
 sudo cp ~/Downloads/DisplayProductID-7721 /Library/Displays/Contents/Resources/Overrides/DisplayVendorID-1e6d/DisplayProductID-7721
 ```
 
-```
+
 reboot
-```
+
